@@ -18,3 +18,10 @@ The Journal-App can be downloaded from following sources:</br>
 Please fork this repository and contribute back using <a href="https://github.com/macobse/Journal-App/pulls">pull requests</a>.<br>
 </br>
 Any contributions, large or small, major features, bug fixes, unit/integration tests are welcomed and appreciated but will be thoroughly reviewed and discussed.
+# Versioning
+We use <a href="http://semver.org/"> SemVer</a> for versioning. For the versions available, <a href="https://github.com/macobse/Journal-App/tags">see the tags</a> on this repository.
+
+#Authors
+<strong>Mesay Negash</strong>
+
+
