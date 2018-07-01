@@ -21,7 +21,7 @@ Any contributions, large or small, major features, bug fixes, unit/integration t
 # Versioning
 We use <a href="http://semver.org/"> SemVer</a> for versioning. For the versions available, <a href="https://github.com/macobse/Journal-App/tags">see the tags</a> on this repository.
 
-#Authors
-<strong>Mesay Negash</strong>
+# Authors
+<strong> - Mesay Negash</strong>
 
 
