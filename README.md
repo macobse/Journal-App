@@ -7,5 +7,14 @@ Clone the project in your directory and you are ready to continue development
 You should install Android studio >= 3.0.1
 
 # Installing
-The Journal-App can be downloaded from following sources:
+The Journal-App can be downloaded from following sources:</br>
 <a href="https://github.com/macobse/Journal-App/releases">Github releases </a>
+
+# Deployment
+
+# Built With
+
+# Contributing
+Please fork this repository and contribute back using <a href="https://github.com/macobse/Journal-App/pulls">pull requests</a>.<br>
+</br>
+Any contributions, large or small, major features, bug fixes, unit/integration tests are welcomed and appreciated but will be thoroughly reviewed and discussed.
